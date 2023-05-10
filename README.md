@@ -25,6 +25,7 @@ My days are filled with learning, programming, website development, and coding.
 <img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript" height="25" /></img>
 <img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
 <img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
 
