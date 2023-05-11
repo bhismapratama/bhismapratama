@@ -45,7 +45,7 @@ My days are filled with learning, programming, website development, and coding.
 ## My Stats:
 <br/>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhismapratama&show_icons=true&locale=en&layout=compact"      alt="bhismapratama" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-lang?username=bhismapratama&show_icons=true&locale=en&layout=compact"      alt="bhismapratama" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhismapratama&show_icons=true&locale=en" alt="bhismapratama" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bhismapratama&" alt="bhismapratama" />
 </div>
