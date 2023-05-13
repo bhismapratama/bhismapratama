@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhisma</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=58a6ff&style=flat" alt="bhismapratama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=1f6feb&style=flat" alt="bhismapratama" /> </p>
 
 I'm **Bhisma Elki Pratama** an Information Technology student who aspire to become Web developer.
 A boy who started his days as an IT student, eager to learn about the IT industry and trying to focus on learning about web development, business, UI/UX, and app development.
