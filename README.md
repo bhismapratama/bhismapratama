@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhisma</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=1976d2&style=flat" alt="bhismapratama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=58a6ff&style=flat" alt="bhismapratama" /> </p>
 
 I'm **Bhisma Elki Pratama** an Information Technology student who aspire to become Web developer.
 A boy who started his days as an IT student, eager to learn about the IT industry and trying to focus on learning about web development, business, UI/UX, and app development.
@@ -44,7 +44,7 @@ My days are filled with learning, programming, website development, and coding.
 ## My Stats:
 <br/>
 <div align="center">
-  <img height="180" color="blue" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhismapratama&show_icons=true&locale=en&layout=compact"      alt="bhismapratama" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhismapratama&show_icons=true&locale=en" alt="bhismapratama" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bhismapratama&" alt="bhismapratama" />
+  <a><img height="180" color="blue" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhismapratama&show_icons=true&locale=en&layout=compact&bg_color=000&title_color=58a6ff&text_color=fff&include_all_commits=true" alt="bhismapratama" /></a>
+  <a><img height="180" src="https://github-readme-stats.vercel.app/api?username=bhismapratama&bg_color=000&title_color=58a6ff&text_color=fff&include_all_commits=true" alt="bhismapratama" /></a>
+  <a><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bhismapratama&theme=github-dark-blue" alt="bhismapratama" /></a>
 </div>
