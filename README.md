@@ -19,7 +19,7 @@ My days are filled with learning, programming, website development, and coding.
 ## My Language & Tools
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/-Git-f8f9fa?style=plastic&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-Git-white?style=plastic&logo=git" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
 
 <img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
