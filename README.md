@@ -13,7 +13,7 @@ My days are filled with learning, programming, website development, and coding.
 * 🔭 I’m currently learning C, C++ , Javascript & Typescript programming languages, especially with frameworks and libraries.
 * 📩 How to reach me: [bhismaelki](mailto:bhismaelki@gmail.com)
 * 📝 See my Linkedin [Here](https://www.linkedin.com/in/bhisma-pratama/). 
-* 🌐 See my Website [bhisma-pratama?color=blue](http://bit.ly/bhisma-pratama) (will be updated soon).
+* 🌐 See my Website [bhisma-pratama](http://bit.ly/bhisma-pratama) (will be updated soon).
 * 😬 I hope to do more good things, develop deeper skills and yeah, this is my profile.
 
 ## My Language & Tools
