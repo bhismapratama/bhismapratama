@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhisma</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=0e75b6&style=flat" alt="bhismapratama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=fff&style=flat" alt="bhismapratama" /> </p>
 
 I'm **Bhisma Elki Pratama** an Information Technology student who aspire to become Web developer.
 A boy who started his days as an IT student, eager to learn about the IT industry and trying to focus on learning about web development, business, UI/UX, and app development.
@@ -19,7 +19,7 @@ My days are filled with learning, programming, website development, and coding.
 ## My Language & Tools
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/-Git-67d7fe?style=plastic&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-Git-blue?style=plastic&logo=git" height="25" /></img>
 <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
 
 <img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
