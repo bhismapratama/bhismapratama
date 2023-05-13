@@ -20,20 +20,20 @@ My days are filled with learning, programming, website development, and coding.
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/-Git-white?style=plastic&logo=git" height="25" /></img>
-<img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github" height="25" /></img>
+<img src="https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github" height="25" /></img>
 
-<img src="https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-VS%20Code-white?style=plastic&logo=visual-studio-code&logoColor=007ACC" height="25" /></img>
 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" height="25" /></img>
-<img src="https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
-<img src="https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
+<img src="https://img.shields.io/badge/-JavaScript-white?style=plastic&logo=javascript" height="25" /></img>
+<img src="https://img.shields.io/badge/-HTML5-white?style=plastic&logo=html5&logoColor=E34F26" height="25" /></img>
+<img src="https://img.shields.io/badge/-CSS3-white?style=plastic&logo=css3&logoColor=1572B6" height="25" /></img>
 
-<img src="https://img.shields.io/badge/-React-black?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" height="25" /></img>
-<img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=Mysql" height="25" /></img>
-<img src="https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel" height="25" /></img>
-<img src="https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
-<img src="https://img.shields.io/badge/-Postman-black?style=plastic&logo=postman" height="25" /></img> <br/> <br/>
+<img src="https://img.shields.io/badge/-React-white?style=plastic&logo=React&logoColor=0180cd" height="25" /></img>
+<img src="https://img.shields.io/badge/-Nodejs-white?style=plastic&logo=Node.js" height="25" /></img>
+<img src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=Mysql" height="25" /></img>
+<img src="https://img.shields.io/badge/-Laravel-white?style=plastic&logo=Laravel" height="25" /></img>
+<img src="https://img.shields.io/badge/-Figma-white?style=plastic&logo=Figma&logoColor=F24E1E" height="25" /></img>
+<img src="https://img.shields.io/badge/-Postman-white?style=plastic&logo=postman" height="25" /></img> <br/> <br/>
 </div>
 
 ## Connect with Me:
