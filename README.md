@@ -49,6 +49,3 @@ My days are filled with learning, programming, website development, and coding.
   <a><img height="180" src="https://github-readme-stats.vercel.app/api?username=bhismapratama&bg_color=000&title_color=58a6ff&text_color=fff&include_all_commits=true" alt="bhismapratama" /></a>
   <a><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bhismapratama&theme=github-dark-blue" alt="bhismapratama" /></a>
 </div>
-
-
-![snake gif](https://github.com/bhismapratama/bhismapratama/blob/output/github-contribution-grid-snake.gif)
