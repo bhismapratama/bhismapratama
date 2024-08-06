@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=1f6feb&style=flat" alt="bhismapratama" /> </p>
 
-I'm **Bhisma Elki Pratama** an Information Technology student who aspire to become Web developer.
+I'm **Bhisma Elki Pratama** an Information Technology student who aspire to become Software Engineer.
 A boy who started his days as an IT student, eager to learn about the IT industry and trying to focus on learning about web development, business, UI/UX, and app development.
 My days are filled with learning, programming, website development, and coding.
 
