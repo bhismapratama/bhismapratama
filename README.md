@@ -10,7 +10,7 @@ My days are filled with learning, programming, website development, and coding.
 ## My Personal Stuffs
 <img align="right" width="400" height="270" alt="GIF" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ox25zwm5iv62cpglf0gmv721k48qacqscouut4kn&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
 * ❤️ I enjoy learning new things, especially things that I'm excited to learn more about.
-* 🔭 I’m currently learning C, C++ , Javascript & Typescript programming languages, especially with frameworks and libraries.
+* 🔭 I’m currently learning android development, especially with frameworks and libraries.
 * 📩 How to reach me: [bhismaelki](mailto:bhismaelki@gmail.com).
 * 🌐 See my Website [bhisma-pratama](http://bit.ly/bhismapratama) (will be updated soon).
 * 😬 I hope to do more good things, develop deeper skills and yeah, this is my profile.
