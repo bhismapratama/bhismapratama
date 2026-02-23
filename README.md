@@ -12,7 +12,7 @@ My days are filled with learning, programming, website development, and coding.
 * ❤️ I enjoy learning new things, especially things that I'm excited to learn more about.
 * 🔭 I’m currently learning android development, especially with frameworks and libraries.
 * 📩 How to reach me: [bhismaelki](mailto:bhismaelki@gmail.com).
-* 🌐 See my Website [bhisma-pratama](http://bit.ly/bhismapratama) (will be updated soon).
+* 🌐 See my Website [bhisma-pratama](https://bhismapratama.com).
 * 😬 I hope to do more good things, develop deeper skills and yeah, this is my profile.
 
 ## Connect with Me:
