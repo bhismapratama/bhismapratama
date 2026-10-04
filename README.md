@@ -7,8 +7,6 @@
 
 I'm **Bhisma Elki Pratama**, a delivery-focused technical lead from Gresik, Indonesia, with 2+ years of hands-on full-stack engineering. I graduated in Information Technology from **Institut Teknologi Sepuluh Nopember (ITS)** in August 2026, and I now run **Recode Studio**, an independent software studio.
 
-I've led cross-functional engineering and design teams through full delivery cycles, owned the IT strategy for a multi-platform national competition against a fixed event date, and coordinated a government-sector engagement with international partners. I like owning delivery (scope, standards, release process) while staying close enough to the code to make and defend architecture decisions.
-
 ## What I'm Doing
 
 <img align="right" width="400" height="270" alt="GIF" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ox25zwm5iv62cpglf0gmv721k48qacqscouut4kn&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
