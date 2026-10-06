@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhisma</h1>
-<h3 align="center">Technical Project Manager · Full-Stack Engineer · Founder of Recode Studio</h3>
+<h3 align="center">Technical Project Manager · Full-Stack Engineer · Founder of Recode Studio ID</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhismapratama&label=Profile%20views&color=1f6feb&style=flat" alt="bhismapratama" />
