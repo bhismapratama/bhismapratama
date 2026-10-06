@@ -12,7 +12,6 @@
   <a href="https://www.instagram.com/bhisma.pratama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="mailto:bhismaelki@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" /></a>
   <a href="https://bhismapratama.site" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" width="40" /></a>
-  <a href="https://bhismapratama.com/resume" target="blank"><img align="center" src="https://api.iconify.design/mdi/file-account.svg?color=%23F5A623" alt="Resume" height="30" width="40" /></a>
 </p>
 
 ## My Stats
