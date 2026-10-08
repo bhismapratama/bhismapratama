@@ -17,5 +17,5 @@
 ## My Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=bhismapratama&theme=github-dark-blue&border_radius=10" alt="bhismapratama" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=bhismapratama&theme=github-dark-blue&border_radius=8" alt="bhismapratama" />
 </div>
